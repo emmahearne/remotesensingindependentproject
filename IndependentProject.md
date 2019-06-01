@@ -34,7 +34,7 @@ Question(s)
 
 -   Question 1: Do we see evidence of "fishing the line" in marine reserves in the Philippines?
 -   Question 2: How does the amount of boats that are "fishing the line" vary between marine reserves of differing rates of success?
--   Question 3: Can we use evidence of "fishing the line" through satellite imagery as a rough determinant of success rates of specific marine reserves?
+-   Question 3: Can we use evidence of "fishing the line" through satellite imagery as a rough determinant of success rates of specific marine reserves? (artisinal and subsistence fisheries, could be a particularly good management tool for community managed marine reserves)
 
 Introduction
 ------------
@@ -47,6 +47,8 @@ Methods
 Google Earth imagery was available for the Philippines between 2002 and 2018. The Protected Planet World Database of Protected Areas was used to determine the location and borders of varying marine reserves. I selected a \_\_\_ marine reserves based on age to count the number of boats and measure the distance between the boats and the marine reserve border.
 
 Later, I will try to make a rough prediction based on the number of boats over the years available on the success of that marine reserve I will then match up monitoring reports of all marine reserves available to see if there is a correlation between the success rate and the number of fishing boats "fishing the line".
+
+\*Would be cool if results showed that there was 3 times more fishermen per unit area of marine reserve in successful fisheries than unsuccessful fishers.
 
 !["A poor example of the measuring I'm doing."](Photo1.png)
 
